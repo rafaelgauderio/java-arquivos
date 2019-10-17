@@ -8,7 +8,7 @@ public class TryWithResources {
 
 	public static void main(String[] args) {
 
-		String caminho = "c:\\temp\\arquivo.txt";
+		String caminho = "c:\\temp\\arqrereuivo.txt";
 		/*try with resources garante que os recursos serão finalizados ao final do bloco, não
 		*precisa usar o .close();
 		*/
